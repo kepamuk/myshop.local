@@ -8,7 +8,7 @@ $template = 'default';
 define('TemplatePrefix', "../views/{$template}/");
 define('TemplatePostprefix', '.tpl');
 
-define('TemplateWebPath', "/templates/{$template}/");
+define('TemplateWebPath', "templates/{$template}/");
 
 require '../library/Smarty/libs/Smarty.class.php';
 $smarty = new Smarty();
