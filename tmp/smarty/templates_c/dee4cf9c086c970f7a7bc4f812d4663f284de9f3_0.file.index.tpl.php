@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.30, created on 2018-04-13 13:20:53
+/* Smarty version 3.1.30, created on 2018-04-13 13:23:30
   from "D:\soft\OSPanel\domains\myshop.local\views\default\index.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_5ad084857a0a13_43386576',
+  'unifunc' => 'content_5ad08522f15859_75598184',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'dee4cf9c086c970f7a7bc4f812d4663f284de9f3' => 
     array (
       0 => 'D:\\soft\\OSPanel\\domains\\myshop.local\\views\\default\\index.tpl',
-      1 => 1523614851,
+      1 => 1523615003,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5ad084857a0a13_43386576 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ad08522f15859_75598184 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!doctype html>
 <html lang="en">
@@ -36,6 +36,5 @@ function content_5ad084857a0a13_43386576 (Smarty_Internal_Template $_smarty_tpl)
 <?php echo $_smarty_tpl->tpl_vars['pageTitle']->value;?>
 
 </body>
-</html>
-<?php }
+</html><?php }
 }
